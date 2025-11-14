@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hello World");
 
         System.out.println("Good Day");
+
+        System.out.println("Доабвили ещё одну надпись");
         }
     }
